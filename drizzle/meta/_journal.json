@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1760220229874,
+      "tag": "0000_real_pepper_potts",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1762288468487,
+      "tag": "0001_uneven_sebastian_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1762560985921,
+      "tag": "0002_sturdy_thundra",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1762820441218,
+      "tag": "0003_amusing_anthem",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1763915397575,
+      "tag": "0004_wonderful_quasar",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1764957353137,
+      "tag": "0005_equal_owl",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1769138749744,
+      "tag": "0006_watery_magma",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1769500000000,
+      "tag": "0007_byo_email",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1769630208123,
+      "tag": "0008_unique_shotgun",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1769703835084,
+      "tag": "0009_sticky_fabian_cortez",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1769780000000,
+      "tag": "0010_job_queue",
+      "breakpoints": true
+    }
+  ]
+}

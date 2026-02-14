@@ -1,0 +1,40 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+logs/
+
+# AI Rules generated files
+.cursor/rules/svelte5.mdc
+.github/
+.github/copilot-instructions.md
+.mcp.json
+.claude/
+CLAUDE.md
+.cursor/rules/api.mdc
+.cursor/rules/auth.mdc
+.cursor/rules/critical-patterns.mdc
+.cursor/rules/drizzle.mdc
+.cursor/rules/sveltekit.mdc
+.cursor/
+.cursor/rules/email.mdc
+.cursor/rules/shadcn-tailwind.mdc

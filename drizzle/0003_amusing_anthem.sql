@@ -1,0 +1,1 @@
+ALTER TABLE "organization" ADD COLUMN "isPaused" boolean DEFAULT false NOT NULL;
