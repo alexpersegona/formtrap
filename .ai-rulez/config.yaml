@@ -1,0 +1,17 @@
+# AI-Rulez V3 Configuration
+# Documentation: https://github.com/Goldziher/ai-rulez
+
+$schema: https://raw.githubusercontent.com/Goldziher/ai-rulez/main/schema/ai-rules-v3.schema.json
+
+version: "3.0"
+name: "FormTrap"
+description: "SvelteKit SaaS application with Better Auth, Drizzle ORM, and shadcn-svelte"
+
+# Generate configs for all these tools
+presets:
+  - claude
+  - cursor
+  - copilot
+
+# Gitignore the generated files
+gitignore: true
