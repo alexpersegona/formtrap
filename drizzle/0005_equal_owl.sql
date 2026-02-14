@@ -1,0 +1,2 @@
+ALTER TABLE "spaceResourceAllocation" ADD COLUMN "storageIsLocked" boolean DEFAULT false NOT NULL;--> statement-breakpoint
+ALTER TABLE "spaceResourceAllocation" ADD COLUMN "submissionIsLocked" boolean DEFAULT false NOT NULL;
